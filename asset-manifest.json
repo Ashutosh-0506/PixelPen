@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PixelPen/static/css/main.9a680f13.css",
+    "main.js": "/PixelPen/static/js/main.bc445376.js",
+    "index.html": "/PixelPen/index.html",
+    "main.9a680f13.css.map": "/PixelPen/static/css/main.9a680f13.css.map",
+    "main.bc445376.js.map": "/PixelPen/static/js/main.bc445376.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a680f13.css",
+    "static/js/main.bc445376.js"
+  ]
+}
